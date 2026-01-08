@@ -44,6 +44,7 @@ Motherboard X9DBU-3F/X9DBU-iF
 
 ### Motherboard X9DBU-3F/X9DBU-iF
 
+
 ![image-20250817212750610]([./Supermicro/images/image-20250807141433891.png))
 
    Note: All graphics shown in this manual were based upon the latest PCB
