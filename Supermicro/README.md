@@ -54,13 +54,13 @@ Motherboard X9DBU-3F/X9DBU-iF
 
 ### Chapter 1: Overview
 
-![image-20250817215210486](./images/image-20250817215210486.png)
+![Main Board](./images/image-20250817215210486.png)
 
 ​                                                                                                                                                                                                                                                                                                                                                                       Note : For the latest CPU/Memory updates, please refer to our website at  http://www.supermicro.com/products/motherboard/ for details.
 
 ### Motherboard User’s Manual Quick Reference
 
-![image-20250817215621751](./images/image-20250817215621751.png)
+![Main Board](./images/image-20250817215621751.png)
 
  Примечания:
 
