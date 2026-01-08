@@ -1,5 +1,3 @@
-Motherboard X9DBU-3F/X9DBU-iF
-
 Руководство по X9DBU-iF rev. 1.10
 
 ### Структура руководства
@@ -44,8 +42,7 @@ Motherboard X9DBU-3F/X9DBU-iF
 
 ### Motherboard X9DBU-3F/X9DBU-iF
 
-
-![image-20250817212750610]([./images/image-20250807141433891.png))
+![image-20250817212750610](./images/image-20250817212750610.png)
 
    Note: All graphics shown in this manual were based upon the latest PCB
    revision available at the time of publishing of the manual. The motherboard
@@ -55,13 +52,13 @@ Motherboard X9DBU-3F/X9DBU-iF
 
 ### Chapter 1: Overview
 
-![Main Board](/images/image-20250817215210486.png)
+![image-20250817215210486](./images/image-20250817215210486.png)
 
 ​                                                                                                                                                                                                                                                                                                                                                                       Note : For the latest CPU/Memory updates, please refer to our website at  http://www.supermicro.com/products/motherboard/ for details.
 
 ### Motherboard User’s Manual Quick Reference
 
-![Main Board](./images/image-20250817215621751.png)
+![image-20250817215621751](./images/image-20250817215621751.png)
 
  Примечания:
 
