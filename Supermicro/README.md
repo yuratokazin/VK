@@ -44,7 +44,7 @@ Motherboard X9DBU-3F/X9DBU-iF
 
 ### Motherboard X9DBU-3F/X9DBU-iF
 
-![image-20250817212750610](./images/image-20250817212750610.png)
+![image-20250817212750610](raw.githubusercontent.com/image-20250817212750610.png)
 
    Note: All graphics shown in this manual were based upon the latest PCB
    revision available at the time of publishing of the manual. The motherboard
