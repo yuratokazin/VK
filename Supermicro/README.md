@@ -47,7 +47,6 @@
 
 ![Motherboard](./images/image-20250817212750610.png)
 
-![Motherboard](./images/image-20250807141433891.png)
 
    Note: All graphics shown in this manual were based upon the latest PCB
    revision available at the time of publishing of the manual. The motherboard
