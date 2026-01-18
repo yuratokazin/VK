@@ -321,6 +321,43 @@ Kvqfew Xxx
    flatpak install flathub com.obsproject.Studio
    ```
 
+
+
+```
+oem@lenovo:~$ flatpak install flathub com.obsproject.Studio
+Поиск совпадений…
+Требуемая среда исполнения для com.obsproject.Studio/x86_64/stable (runtime/org.kde.Platform/x86_64/6.8) найдена в удалённом репозитории flathub
+Хотите установить её? [Y/n]: y
+
+Info: runtime org.kde.Platform branch 6.8 is end-of-life, with reason:
+   We strongly recommend moving to the latest stable version of the Platform and SDK
+Info: applications using this runtime:
+   com.obsproject.Studio
+
+Разрешения com.obsproject.Studio:
+    ipc           network               fallback-x11          pulseaudio      wayland      x11
+    devices       file access [1]       dbus access [2]
+
+    [1] host, xdg-config/kdeglobals:ro, xdg-run/pipewire-0
+    [2] com.canonical.AppMenu.Registrar, org.a11y.Bus, org.freedesktop.Flatpak, org.freedesktop.Notifications,
+        org.kde.KGlobalSettings, org.kde.StatusNotifierWatcher, org.kde.kconfig.notify, org.kde.kdeconnect
+
+
+        ID                                       Ветвь          Оп     Удалённый репозиторий     Загрузка
+ 1. [✓] com.obsproject.Studio.Locale             stable         i      flathub                     2,1 кБ / 47,0 кБ
+ 2. [✓] org.freedesktop.Platform.GL.default      24.08          i      flathub                   144,7 МБ / 145,4 МБ
+ 3. [✓] org.freedesktop.Platform.GL.default      24.08extra     i      flathub                    24,0 МБ / 145,4 МБ
+ 4. [✓] org.freedesktop.Platform.VAAPI.Intel     24.08          i      flathub                    14,8 МБ / 15,0 МБ
+ 5. [✗] org.freedesktop.Platform.openh264        2.5.1          i      flathub                   295,6 кБ / 971,4 кБ
+ 6. [✓] org.kde.Platform.Locale                  6.8            i      flathub                     1,8 МБ / 409,7 МБ
+ 7. [✓] org.kde.Platform                         6.8            i      flathub                   400,5 МБ / 396,0 МБ
+ 8. [✓] com.obsproject.Studio                    stable         i      flathub                   217,9 МБ / 212,3 МБ
+
+Warning: Во время загрузки http://ciscobinary.openh264.org/libopenh264-2.5.1-linux64.7.so.bz2: Server returned status 403
+Установка завершена.
+```
+
+
    
 
 Способ 2: Через стандартный репозиторий (APT)
