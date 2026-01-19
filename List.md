@@ -1,4 +1,6 @@
-# Подписчики и Stream
+# Subscribers and Stream
+
+Подписчики и трансляция (стрим)
 
 первая группа:
 
@@ -491,7 +493,7 @@ sudo apt install obs-studio
 
        ```
        rtmp://vsu.mycdn.me/input/
-       910414331871_910414331871_71_46iz52ls2a
+       910414331871_910414331871_71_46iz92ls2a
        ```
 
        
