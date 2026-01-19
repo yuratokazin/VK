@@ -1,5 +1,7 @@
 # Stream on VK and group chat on MAX
 
+https://www.rustore.ru/catalog/app/ru.oneme.app
+
 Способ 1: Создание группового чата и звонка в нем
 
 1. **Откройте MAX:** Запустите приложение и перейдите в раздел чатов.
