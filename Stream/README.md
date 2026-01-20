@@ -7,6 +7,10 @@ https://www.rustore.ru/catalog/app/ru.oneme.app
 
 Ссылга для МАХа https://web.max.ru/joincall/WGFUxZ5FHrUaDxth-i35fSRTpP8EH78lw2R_Z4Igi2M
 
+---
+
+---
+
 Способ 1: Создание группового чата и звонка в нем
 
 1. **Откройте MAX:** Запустите приложение и перейдите в раздел чатов.
