@@ -1,11 +1,15 @@
 # Stream on VK and group chat on MAX
 
-https://www.rustore.ru/catalog/app/ru.oneme.app
 
 ▶️ Завтра (в среду 21-го) с 15:30 стартуем стрим, присоединяйтесь:
-👉live.vkvideo.ru/gitcube 
 
-Ссылга для МАХа https://web.max.ru/joincall/WGFUxZ5FHrUaDxth-i35fSRTpP8EH78lw2R_Z4Igi2M
+👉 Устанавливаем МАХ по ссылке https://www.rustore.ru/catalog/app/ru.oneme.app
+
+👉 Ссылка для стрима https://live.vkvideo.ru/gitcube 
+
+👉 Ссылка для голосоваго чата в МАХе https://web.max.ru/joincall/WGFUxZ5FHrUaDxth-i35fSRTpP8EH78lw2R_Z4Igi2M
+
+Это все что нужно для стриа, общение и стрим могут быть запущены даже на одном смарфоне без ПК, но смартфон + ПК удобнее.
 
 ---
 
