@@ -18,9 +18,8 @@
 
 1. Обновите пакеты:
 
-   bash
 
-   ```
+   ```bash
    sudo apt update
    ```
 
@@ -28,9 +27,8 @@
 
 2. Установите Flatpak:
 
-   bash
 
-   ```
+   ```bash
    sudo apt install flatpak
    ```
 
@@ -38,9 +36,8 @@
 
 3. Добавьте репозиторий Flathub:
 
-   bash
 
-   ```
+   ```bash
    flatpak remote-add --if-not-exists flathub https://flathub.org
    ```
 
@@ -50,15 +47,14 @@
 
 5. Установите OBS:
 
-   bash
 
-   ```
+   ```bash
    flatpak install flathub com.obsproject.Studio
    ```
 
 
 
-```
+```bash
 oem@lenovo:~$ flatpak install flathub com.obsproject.Studio
 Поиск совпадений…
 Требуемая среда исполнения для com.obsproject.Studio/x86_64/stable (runtime/org.kde.Platform/x86_64/6.8) найдена в удалённом репозитории flathub
