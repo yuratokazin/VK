@@ -29,6 +29,7 @@ qrencode -o vk.com_gitcube.png "https://vk.com/gitcube"
 qrencode -o vkvideo.ru_gitcube.png "https://live.vkvideo.ru/gitcube"
 qrencode -o vk.com_channel.png "https://vk.com/im/channels/-234893193"
 qrencode -o vk.com_max.png "https://web.max.ru/-70603371353470"
+qrencode -o vk.com_orthodox.scoole.png "https://vk.com/orthodox.scoole"
 ```
 
 Альтернативные инструменты 
